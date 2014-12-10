@@ -1,0 +1,4 @@
+spectingular.mocks
+==================
+
+Mocking extensions
